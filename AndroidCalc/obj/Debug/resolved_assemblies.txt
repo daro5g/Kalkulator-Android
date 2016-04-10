@@ -1,0 +1,10 @@
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\assemblies\AndroidCalc.dll
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\assemblies\Mono.Android.dll
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\assemblies\mscorlib.dll
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\assemblies\System.Core.dll
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\assemblies\System.dll
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\assemblies\System.Xml.dll
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\assemblies\System.Xml.Linq.dll
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\assemblies\YAMP.dll
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\assemblies\System.Runtime.Serialization.dll
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\assemblies\System.ServiceModel.Internals.dll

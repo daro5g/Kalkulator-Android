@@ -1,0 +1,35 @@
+F:\Programs\AndroidCalc\AndroidCalc\bin\Debug\AndroidCalc.dll
+F:\Programs\AndroidCalc\AndroidCalc\bin\Debug\AndroidCalc.pdb
+F:\Programs\AndroidCalc\AndroidCalc\obj\Debug\AndroidCalc.dll
+F:\Programs\AndroidCalc\AndroidCalc\obj\Debug\AndroidCalc.pdb
+F:\Programs\AndroidCalc\AndroidCalc\bin\Debug\AndroidCalc.AndroidCalc.apk
+F:\Programs\AndroidCalc\AndroidCalc\bin\Debug\AndroidCalc.AndroidCalc-Signed.apk
+F:\Programs\AndroidCalc\AndroidCalc\obj\Debug\android\bin\AndroidCalc.AndroidCalc.apk
+F:\Programs\AndroidCalc\AndroidCalc\obj\Debug\res\layout\main.xml
+F:\Programs\AndroidCalc\AndroidCalc\obj\Debug\res\values\strings.xml
+F:\Programs\AndroidCalc\AndroidCalc\obj\Debug\res\drawable\icon.png
+F:\Programs\AndroidCalc\AndroidCalc\obj\Debug\R.cs.flag
+F:\Programs\AndroidCalc\AndroidCalc\obj\Debug\uploadflags.txt
+F:\Programs\AndroidCalc\AndroidCalc\bin\Debug\YAMP.dll
+F:\Programs\AndroidCalc\AndroidCalc\bin\Debug\YAMP.xml
+F:\Programs\AndroidCalc\AndroidCalc\obj\Debug\AndroidCalc.csprojResolveAssemblyReference.cache
+F:\Programs\AndroidCalc\AndroidCalc\obj\Debug\AndroidCalc.dll.mdb
+F:\Programs\AndroidCalc\AndroidCalc\bin\Debug\AndroidCalc.dll.mdb
+F:\Programs\AndroidCalc - Copy\AndroidCalc\bin\Debug\AndroidCalc.dll
+F:\Programs\AndroidCalc - Copy\AndroidCalc\bin\Debug\AndroidCalc.pdb
+F:\Programs\AndroidCalc - Copy\AndroidCalc\bin\Debug\AndroidCalc.AndroidCalc.apk
+F:\Programs\AndroidCalc - Copy\AndroidCalc\bin\Debug\AndroidCalc.AndroidCalc-Signed.apk
+F:\Programs\AndroidCalc - Copy\AndroidCalc\bin\Debug\YAMP.dll
+F:\Programs\AndroidCalc - Copy\AndroidCalc\bin\Debug\YAMP.xml
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\AndroidCalc.csprojResolveAssemblyReference.cache
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\AndroidCalc.dll
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\AndroidCalc.pdb
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\android\bin\AndroidCalc.AndroidCalc.apk
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\res\layout\science.xml
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\res\layout\main.xml
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\res\values\strings.xml
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\res\drawable\icon.png
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\R.cs.flag
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\uploadflags.txt
+F:\Programs\AndroidCalc - Copy\AndroidCalc\obj\Debug\AndroidCalc.dll.mdb
+F:\Programs\AndroidCalc - Copy\AndroidCalc\bin\Debug\AndroidCalc.dll.mdb

@@ -1,0 +1,8 @@
+AndroidCalc.MainActivity, AndroidCalc;md5ca79a6e2db8057e81057c16ecc6b276b.MainActivity
+AndroidCalc.MainActivity, AndroidCalc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ca79a6e2db8057e81057c16ecc6b276b.MainActivity
+AndroidCalc.MainActivity;md5ca79a6e2db8057e81057c16ecc6b276b.MainActivity
+androidcalc.MainActivity;md5ca79a6e2db8057e81057c16ecc6b276b.MainActivity
+AndroidCalc.ScienceActivity, AndroidCalc;md5ca79a6e2db8057e81057c16ecc6b276b.ScienceActivity
+AndroidCalc.ScienceActivity, AndroidCalc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ca79a6e2db8057e81057c16ecc6b276b.ScienceActivity
+AndroidCalc.ScienceActivity;md5ca79a6e2db8057e81057c16ecc6b276b.ScienceActivity
+androidcalc.ScienceActivity;md5ca79a6e2db8057e81057c16ecc6b276b.ScienceActivity
